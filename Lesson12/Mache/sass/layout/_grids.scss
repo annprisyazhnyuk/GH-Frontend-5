@@ -1,0 +1,10 @@
+// Requirements
+// ============
+
+@import "../../../../.rvm/gems/ruby-2.2.1/gems/susy-2.2.7/sass/susy";
+
+$susy: (
+  columns: 12,
+  gutters: 1/4,
+  container: 1170px,
+);
